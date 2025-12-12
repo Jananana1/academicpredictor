@@ -21,19 +21,18 @@ This project is ideal for:
 
 ### **1. Requirements**
 - PHP 7+ or 8+
-- XAMPP / Laragon / WAMP
+- XAMPP
 - Web browser (Chrome recommended)
 
 ### **2. Steps**
 1. Download or clone this repository:
-git clone https://github.com/
-<your-repo>.git
+git clone https://github.com/Jananana1/academicpredictor.git
 2. Move the folder to:
 htdocs/ (XAMPP)
 3. Start your local server (Apache).
 4. Open in browser:
 http://localhost/
-<project-folder>/public/index.php
+<academic_predictor>/public/index.php
 
 
 ---
