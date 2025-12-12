@@ -61,9 +61,7 @@ No login required. Everything is instant.
 | Issue | Solution |
 |-------|----------|
 | App shows blank page | Ensure `/public/index.php` is used |
-| CSS not loading | Check `public/assets` path |
 | Internal server error | Enable PHP extensions, restart Apache |
-| Images not showing | Verify filenames inside `/screenshot/` folder |
 | “File not found” | Make sure project folder is inside `htdocs` |
 
 
@@ -72,18 +70,21 @@ No login required. Everything is instant.
 ## Files & Folder Structure
 
 academic_predictor/
-├──screenshot
+├── screenshot/
+│
 ├── public/
-│└── index.php
+│   └── index.php
+│
 ├── vendor/
-│└── src/
-|   └── demo/
-|       └── student.csv
-│── predict.php
-|── train.php
+│   └── src/
+│       └── demo/
+│           └── student.csv
+│
+├── predict.php
+├── train.php
 │
 ├── composer.lock
-└── composer.json 
+└── composer.json
 
 
 
