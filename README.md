@@ -92,6 +92,17 @@ academic_predictor/
 ### Landing Page  
 ![Landing page](screenshots/landingpage.png)
 
+### No Input Message  
+![No Input](screenshots/noinput.png)
+
+### User Adding New Quiz  
+![Add Quiz](screenshots/useraddnewquiz.png)
+
+
+### User Deleting Record  
+![Delete Record](screenshots/userdeletingquiz.png)
+
+
 ### High Risk Result  
 ![High Risk](screenshots/highrisk.png)
 
@@ -103,15 +114,6 @@ academic_predictor/
 
 ### Low Risk Result  
 ![Low Risk](screenshots/lowrisk.png)
-
-### No Input Message  
-![No Input](screenshots/noinput.png)
-
-### User Adding New Quiz  
-![Add Quiz](screenshots/useraddnewquiz.png)
-
-### User Deleting Record  
-![Delete Record](screenshots/userdeleting.png)
 
 ---
 
