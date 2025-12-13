@@ -1,19 +1,15 @@
 #  Academic Performance Predictor  
 A lightweight web application that predicts a student's academic performance category (Low, Medium, High) based on selected risk factors.
 
-No login required. Works instantly using demo data.
+No login required. 
 
 ---
 
-##  Introduction
-The **Academic Performance Predictor** is a simple decision-based web application designed to help visualize student risk levels.  
-It categorizes users into different academic risk groups using a rule-based prediction model.
+## Introduction
+The **Academic Performance Predictor** is a web application that uses machine learning to classify students into different academic risk levels.  
+It is built using the **PHP-ML library** (`php-ai/php-ml`) to train and run the prediction model, while `davmixcool/php-sentiment-analyzer` is included for sentiment-related processing in other parts of the system.  
+The app provides fast and straightforward predictions for determining whether a student is at low, medium, or high academic risk.
 
-This project is ideal for:
-- Demonstrations  
-- School research  
-- Educational prototypes  
-- System analysis & design projects  
 
 ---
 
@@ -45,6 +41,7 @@ http://localhost/
 - **Medium–High Risk**
 - **Low–Medium Risk**
 - **Low Risk**
+The system will also show the average of the user's input, personalized study tips that is based on your prediction result.
 4. You can also:
 - Add new quiz entries  
 - View all generated predictions  
@@ -127,5 +124,5 @@ https://academic-predictor.free.nf/public/index.php
 https://www.canva.com/design/DAG7B_b3UYs/9Q6sVPcwZ1Xtv1MuHZnvxw/edit?utm_content=DAG7B_b3UYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ###  **YouTube Demo:**  
-*(Insert your YouTube link here)*
+[*(Insert your YouTube link here)*](https://youtu.be/UVtFr2fu01A?si=esR-oeKcyqBIBGhm)
 
