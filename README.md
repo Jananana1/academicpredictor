@@ -7,6 +7,7 @@ No login required.
 
 ## Introduction
 The **Academic Performance Predictor** is a web application that uses machine learning to classify students into different academic risk levels.  
+
 It is built using the **PHP-ML library** (`php-ai/php-ml`) to train and run the prediction model, while `davmixcool/php-sentiment-analyzer` is included for sentiment-related processing in other parts of the system.  
 The app provides fast and straightforward predictions for determining whether a student is at low, medium, or high academic risk.
 
@@ -28,7 +29,7 @@ htdocs/ (XAMPP)
 3. Start your local server (Apache).
 4. Open in browser:
 http://localhost/
-<academic_predictor>/public/index.php
+academic_predictor/public/index.php
 
 
 ---
@@ -40,7 +41,8 @@ http://localhost/
 - **High Risk**
 - **Medium–High Risk**
 - **Low–Medium Risk**
-- **Low Risk**
+- **Low Risk** 
+
 The system will also show the average of the user's input, personalized study tips that is based on your prediction result.
 4. You can also:
 - Add new quiz entries  
