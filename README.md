@@ -44,12 +44,13 @@ academic_predictor/public/index.php
 - **Low Risk** 
 
 The system will also show the average of the user's input, personalized study tips that is based on your prediction result.
+
 4. You can also:
 - Add new quiz entries  
 - View all generated predictions  
 - Delete an entry (demo mode)
 
-No login required. Everything is instant.
+No login required. 
 
 ---
 
@@ -125,6 +126,8 @@ https://academic-predictor.free.nf/public/index.php
 ###  **Canva / PowerPoint Presentation:**  
 https://www.canva.com/design/DAG7B_b3UYs/9Q6sVPcwZ1Xtv1MuHZnvxw/edit?utm_content=DAG7B_b3UYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-###  **YouTube Demo:**  
+###  **Video Presentation:**  
 https://youtu.be/UVtFr2fu01A?si=esR-oeKcyqBIBGhm
 
+
+### **THANK YOU **
